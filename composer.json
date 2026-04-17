@@ -1,5 +1,5 @@
 {
-    "name": "benevolence/laravel-admin",
+    "name": "benevolences/laravel-admin",
     "description": "Dcat admin 升级版 / 支持 Laravel 12, PHP 版本限制 >= 8.1（支持 PHP 8.4）",
     "type": "library",
     "keywords": [
